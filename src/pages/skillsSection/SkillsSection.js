@@ -5,6 +5,8 @@ const techIcons = [
     ["/icons/java.png", "/icons/digitalocean.png", "/icons/php.png", ""],
 ];
 
+
+
 export default function SkillsSection() {
     return (
         <section className="bg-gradient-to-br from-[#1A1652] to-[#231959] py-16 px-4">
